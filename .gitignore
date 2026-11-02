@@ -3,6 +3,10 @@ Merostatus/
 Merostatus.slnx
 *.sln
 playstore_icon*
+feature_graphic*
+screenshot_*
+*.png
+*.svg
 
 # Build results
 [Dd]ebug/
